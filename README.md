@@ -1,6 +1,6 @@
 # Push_swap
 
-This repository contains my solution to the Push_swap project in the 42 network. The goal of this project is to sort a stack of integers using a set of predefined operations with the smallest possible number of moves. The project is written in C and adheres to the Norminette coding standards of 42.
+This repository contains my solution to the Push_swap project in the 42 network. The goal of this project is to sort a stack of integers using a set of predefined operations with the smallest possible number of moves. The project is written in C and adheres to the Norminette coding standards of 42 Network.
 
 ## Overview
 
@@ -27,7 +27,7 @@ The objective is to write two programs:
 
 ### Push_swap
 
-Compile the `push_swap` program using the provided Makefile:
+Compile the `push_swap` program using the Makefile:
 
 ```bash
 make
